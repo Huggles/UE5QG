@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "UE5",
-			"path": "F:\\UE_5.3"
+			"path": "F:\\UE_5.4"
 		}
 	],
 	"settings": {
@@ -30,13 +30,13 @@
 					"QG",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -47,7 +47,7 @@
 					"QG",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -56,7 +56,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -67,13 +67,13 @@
 					"QG",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -84,13 +84,13 @@
 					"QG",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -101,7 +101,7 @@
 					"QG",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -110,7 +110,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -121,13 +121,13 @@
 					"QG",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -138,13 +138,13 @@
 					"QG",
 					"Win64",
 					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -155,7 +155,7 @@
 					"QG",
 					"Win64",
 					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -164,7 +164,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -175,13 +175,13 @@
 					"QG",
 					"Win64",
 					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -192,13 +192,13 @@
 					"QG",
 					"Win64",
 					"Test",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -209,7 +209,7 @@
 					"QG",
 					"Win64",
 					"Test",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -218,7 +218,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -229,13 +229,13 @@
 					"QG",
 					"Win64",
 					"Test",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -246,13 +246,13 @@
 					"QG",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -263,7 +263,7 @@
 					"QG",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -272,7 +272,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -283,283 +283,13 @@
 					"QG",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Debug Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Debug Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"QG IOS Debug Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Debug Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS DebugGame Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS DebugGame Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"QG IOS DebugGame Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS DebugGame Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Development Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Development Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"QG IOS Development Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Development Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Test Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Test",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Test Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Test",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"QG IOS Test Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Test Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Test",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Shipping Build",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Shipping",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Shipping Rebuild",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Build.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Shipping",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"dependsOn": [
-					"QG IOS Shipping Clean"
-				],
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
-				}
-			},
-			{
-				"label": "QG IOS Shipping Clean",
-				"group": "build",
-				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
-				"args": [
-					"QG",
-					"IOS",
-					"Shipping",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
-					"-waitmutex"
-				],
-				"problemMatcher": "$msCompile",
-				"type": "shell",
-				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -570,13 +300,13 @@
 					"QGEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -587,7 +317,7 @@
 					"QGEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -596,7 +326,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -607,13 +337,13 @@
 					"QGEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -624,13 +354,13 @@
 					"QGEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -641,7 +371,7 @@
 					"QGEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -650,7 +380,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -661,13 +391,13 @@
 					"QGEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -678,13 +408,13 @@
 					"QGEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -695,7 +425,7 @@
 					"QGEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -704,7 +434,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -715,13 +445,13 @@
 					"QGEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "F:\\UE_5.3"
+					"cwd": "F:\\UE_5.4"
 				}
 			}
 		]
@@ -732,132 +462,132 @@
 			{
 				"name": "Launch QG (Debug)",
 				"request": "launch",
-				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "QG Win64 Debug Build",
 				"args": [
 				],
-				"cwd": "F:\\UE_5.3",
+				"cwd": "F:\\UE_5.4",
 				"stopAtEntry": false,
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "F:\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "F:\\UE_5.4\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "F:\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "F:\\UE_5.4"
 				}
 			},
 			{
 				"name": "Launch QG (DebugGame)",
 				"request": "launch",
-				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "QG Win64 DebugGame Build",
 				"args": [
 				],
-				"cwd": "F:\\UE_5.3",
+				"cwd": "F:\\UE_5.4",
 				"stopAtEntry": false,
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "F:\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "F:\\UE_5.4\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "F:\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "F:\\UE_5.4"
 				}
 			},
 			{
 				"name": "Launch QG (Development)",
 				"request": "launch",
-				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "QG Win64 Development Build",
 				"args": [
 				],
-				"cwd": "F:\\UE_5.3",
+				"cwd": "F:\\UE_5.4",
 				"stopAtEntry": false,
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "F:\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "F:\\UE_5.4\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "F:\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "F:\\UE_5.4"
 				}
 			},
 			{
 				"name": "Launch QG (Test)",
 				"request": "launch",
-				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "QG Win64 Test Build",
 				"args": [
 				],
-				"cwd": "F:\\UE_5.3",
+				"cwd": "F:\\UE_5.4",
 				"stopAtEntry": false,
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "F:\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "F:\\UE_5.4\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "F:\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "F:\\UE_5.4"
 				}
 			},
 			{
 				"name": "Launch QG (Shipping)",
 				"request": "launch",
-				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "QG Win64 Shipping Build",
 				"args": [
 				],
-				"cwd": "F:\\UE_5.3",
+				"cwd": "F:\\UE_5.4",
 				"stopAtEntry": false,
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "F:\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "F:\\UE_5.4\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "F:\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "F:\\UE_5.4"
 				}
 			},
 			{
 				"name": "Launch QGEditor (Debug)",
 				"request": "launch",
-				"program": "F:\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+				"program": "F:\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "QGEditor Win64 Debug Build",
 				"args": [
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject"
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject"
 				],
-				"cwd": "F:\\UE_5.3",
+				"cwd": "F:\\UE_5.4",
 				"stopAtEntry": false,
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "F:\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "F:\\UE_5.4\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "F:\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "F:\\UE_5.4"
 				}
 			},
 			{
 				"name": "Launch QGEditor (DebugGame)",
 				"request": "launch",
-				"program": "F:\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+				"program": "F:\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "QGEditor Win64 DebugGame Build",
 				"args": [
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject"
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject"
 				],
-				"cwd": "F:\\UE_5.3",
+				"cwd": "F:\\UE_5.4",
 				"stopAtEntry": false,
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "F:\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "F:\\UE_5.4\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "F:\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "F:\\UE_5.4"
 				}
 			},
 			{
 				"name": "Launch QGEditor (Development)",
 				"request": "launch",
-				"program": "F:\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+				"program": "F:\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "QGEditor Win64 Development Build",
 				"args": [
-					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject"
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject"
 				],
-				"cwd": "F:\\UE_5.3",
+				"cwd": "F:\\UE_5.4",
 				"stopAtEntry": false,
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "F:\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "F:\\UE_5.4\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "F:\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "F:\\UE_5.4"
 				}
 			},
 			{
@@ -865,18 +595,18 @@
 				"type": "coreclr",
 				"request": "launch",
 				"preLaunchTask": "UnrealBuildTool Win64 Development Build",
-				"program": "F:\\UE_5.3\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+				"program": "F:\\UE_5.4\\Engine\\Build\\BatchFiles\\RunUBT.bat",
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG\\QG.uproject",
+					"-project=C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
 				],
-				"console": "externalTerminal",
+				"console": "integratedTerminal",
 				"stopAtEntry": false,
-				"cwd": "F:\\UE_5.3"
+				"cwd": "F:\\UE_5.4"
 			}
 		]
 	}
