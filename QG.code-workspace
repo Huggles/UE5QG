@@ -293,6 +293,546 @@
 				}
 			},
 			{
+				"label": "QG IOS Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Debug",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Debug",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG IOS Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Debug",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"DebugGame",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"DebugGame",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG IOS DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"DebugGame",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Development",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Development",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG IOS Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Development",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Test Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Test",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Test Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Test",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG IOS Test Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Test Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Test",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Shipping Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Shipping",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Shipping Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Shipping",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG IOS Shipping Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG IOS Shipping Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"IOS",
+					"Shipping",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Debug",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Debug",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG TVOS Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Debug",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"DebugGame",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"DebugGame",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG TVOS DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"DebugGame",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Development",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Development",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG TVOS Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Development",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Test Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Test",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Test Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Test",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG TVOS Test Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Test Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Test",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Shipping Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Shipping",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Shipping Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Shipping",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"QG TVOS Shipping Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
+				"label": "QG TVOS Shipping Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"QG",
+					"TVOS",
+					"Shipping",
+					"C:\\Users\\Hugo\\Documents\\Unreal Projects\\QG_5.4\\QG.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "F:\\UE_5.4"
+				}
+			},
+			{
 				"label": "QGEditor Win64 Debug Build",
 				"group": "build",
 				"command": "Engine\\Build\\BatchFiles\\Build.bat",
