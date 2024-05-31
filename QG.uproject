@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "QG",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -36,13 +26,6 @@
 		{
 			"Name": "Text3D",
 			"Enabled": true
-		},
-		{
-			"Name": "TextureGraph",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
 		}
 	]
 }
