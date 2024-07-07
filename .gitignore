@@ -14,6 +14,6 @@ Saved
 *.xcworkspace
 
 Build
-RawAssets
+RawAssets/
 Content/StarterContent
 Packages
